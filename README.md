@@ -1,5 +1,7 @@
 # DolfinExpensesTracker
 
+<img src="https://github.com/Poo-wei-chien/DolfinExpensesTracker/blob/main/app/src/main/res/drawable-v24/dolfin_icon.png">
+
 WIX2007_Mobile_App_Development_Assignment
 
 Does it always happen to you when you set a budget but end up losing track of it? People nowadays are busy and it is inconvenient to always carry an extra notebook to jot down our expenses. Thus, we will require some help and a better solution to manage our finances in a smarter and more practical way.
